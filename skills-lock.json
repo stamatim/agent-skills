@@ -26,6 +26,11 @@
       "sourceType": "github",
       "computedHash": "63689cc54dad93d286af948ab1792e755e7063541ffe90e248eed6523b0748a0"
     },
+    "defuddle": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "5bbdb15b568d62fb6b5f06651680c356540dbd0727b1a47b5d70e3fdbf3a2a0a"
+    },
     "email-and-password-best-practices": {
       "source": "better-auth/skills",
       "sourceType": "github",
@@ -51,6 +56,11 @@
       "sourceType": "github",
       "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
     },
+    "json-canvas": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "faaf3952dc852efb091c884e010dfa25f117f2cb4adf903547c8d0ca8aad840a"
+    },
     "logging-best-practices": {
       "source": "boristane/agent-skills",
       "sourceType": "github",
@@ -70,6 +80,21 @@
       "source": "vercel-labs/next-skills",
       "sourceType": "github",
       "computedHash": "be6bbf6ab1dc2cc6f2505cea52d497920c04f5b532c0846ee201f6029b803fb0"
+    },
+    "obsidian-bases": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "6fc6c284d1b55e52ceccba4e995c166a61244bf9c6571fa0c1a8b38a57c3b7bb"
+    },
+    "obsidian-cli": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "f9bd143ad14bce55f71deb45a485d81953b29afa9b32d85bd965cd5da35b576a"
+    },
+    "obsidian-markdown": {
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "computedHash": "11bf7e97424c178d8858b78ecbfa667a5727fbf22ca45c3ae536409c43ea4ad7"
     },
     "organization-best-practices": {
       "source": "better-auth/skills",
