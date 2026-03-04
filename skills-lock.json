@@ -11,6 +11,11 @@
       "sourceType": "github",
       "computedHash": "49817c981208de2f412719f7814d31eba2b2096462edc048a279d93f522cab0f"
     },
+    "beautiful-mermaid": {
+      "source": "intellectronica/agent-skills",
+      "sourceType": "github",
+      "computedHash": "0bbbe0bb6d026f50ba64b18bca28fbf646b2602456da9c1ce0f8f3d27bf80b03"
+    },
     "better-auth-best-practices": {
       "source": "better-auth/skills",
       "sourceType": "github",
