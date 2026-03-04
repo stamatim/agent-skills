@@ -26,6 +26,11 @@
       "sourceType": "github",
       "computedHash": "ca96444b70257eb3f4f4c76dfdd4a32312c835fe3c8755d2e3d75ac78d384bfd"
     },
+    "c4-architecture": {
+      "source": "softaworks/agent-toolkit",
+      "sourceType": "github",
+      "computedHash": "f35f57420c35f2e8413e1e22934ca3950cae8286499f6fbe978cff604c35cfcd"
+    },
     "create-auth-skill": {
       "source": "better-auth/skills",
       "sourceType": "github",
